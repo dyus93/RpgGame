@@ -1,0 +1,110 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trees
+  rotate: false
+  xy: 2, 2
+  size: 560, 120
+  orig: 560, 120
+  offset: 0, 0
+  index: -1
+dwarf60
+  rotate: false
+  xy: 2, 124
+  size: 480, 60
+  orig: 480, 60
+  offset: 0, 0
+  index: -1
+dwarf
+  rotate: false
+  xy: 2, 186
+  size: 480, 60
+  orig: 480, 60
+  offset: 0, 0
+  index: -1
+simpleButton
+  rotate: false
+  xy: 2, 248
+  size: 320, 80
+  orig: 320, 80
+  offset: 0, 0
+  index: -1
+swinganim502
+  rotate: false
+  xy: 564, 2
+  size: 250, 300
+  orig: 250, 300
+  offset: 0, 0
+  index: -1
+smButton
+  rotate: false
+  xy: 2, 330
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+shortButton
+  rotate: false
+  xy: 2, 364
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 124, 330
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+weaponRanged
+  rotate: false
+  xy: 2, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+weaponMelee
+  rotate: false
+  xy: 124, 412
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pointer
+  rotate: false
+  xy: 206, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+powerUps
+  rotate: false
+  xy: 324, 248
+  size: 60, 120
+  orig: 60, 120
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 484, 124
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 484, 186
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+hp
+  rotate: false
+  xy: 124, 478
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1

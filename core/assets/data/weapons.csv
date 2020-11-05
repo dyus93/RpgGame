@@ -1,0 +1,8 @@
+CLASS   ,TYPE  ,TITLE         ,MIN_DAMAGE,MAX_DAMAGE,SPEED,RANGE
+SWORD   ,MELEE ,Short Sword   ,2         ,5         ,0.3  ,60.0
+MACE    ,MELEE ,Light Mace    ,1         ,8         ,0.3  ,60.0
+MACE    ,MELEE ,Heavy Mace    ,10        ,18        ,1.5  ,60.0
+AXE     ,MELEE ,One-Hand Axe  ,2         ,5         ,0.3  ,60.0
+SPEAR   ,MELEE ,Light Spear   ,1         ,6         ,0.4  ,100.0
+BOW     ,RANGED,Bow           ,2         ,5         ,0.4  ,200.0
+CROSSBOW,RANGED,Light Crossbow,1         ,8         ,0.5  ,320.0
